@@ -1,0 +1,15 @@
+{
+    "name": "anjaliscan.com",
+    "version": "1.0.0",
+    "description": "new website",
+    "main": "index.js",
+    "scripts": {
+        "build-tailwindcss": "tailwindcss build src/style.css -o public/style.css"
+    },
+
+    "author": "Pratit Bangdiwala",
+    "license": "MIT",
+    "dependencies": {
+        "tailwindcss": "^2.2.19"
+    }
+}
